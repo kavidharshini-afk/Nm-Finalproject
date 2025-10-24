@@ -18,7 +18,7 @@ Node.js
 Readline module for user input
 
 ## How to Run
-git clone https://github.com/your-username/online-quiz.git
+git clone https://github.com/kavidharshini-afk/Nm-Finalproject.git
 cd online-quiz
 node online_quiz.js
 
