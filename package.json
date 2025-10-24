@@ -1,0 +1,20 @@
+{
+  "name": "nm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "online_quiz.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kavidharshini-afk/Nm-Finalproject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kavidharshini-afk/Nm-Finalproject/issues"
+  },
+  "homepage": "https://github.com/kavidharshini-afk/Nm-Finalproject#readme"
+}
